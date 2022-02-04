@@ -10,7 +10,7 @@
 &nbsp;
 ![stars](https://img.shields.io/github/stars/Devsgeeknerd/freelancer-zp-full-stack?style=social "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=social "Total de Bifurcações")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/freelancer-zp-full-stack?style=social "Total de Bifurcações")
 &nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=social "Tamanho do Repositório")
 &nbsp;
