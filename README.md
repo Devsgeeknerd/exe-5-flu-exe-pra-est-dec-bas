@@ -12,6 +12,6 @@
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/freelancer-zp-full-stack?style=social "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/?style=social "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/freelancer-zp-full-stack?style=social "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/?style=social "Licença do Repositório")
