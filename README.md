@@ -8,7 +8,7 @@
 &nbsp;
 ![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/freelancer-zp-full-stack?style=social "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=social "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/freelancer-zp-full-stack?style=social "Total de Estrelas Recebidas")
 &nbsp;
 ![forks](https://img.shields.io/github/forks/Devsgeeknerd/?style=social "Total de Bifurcações")
 &nbsp;
