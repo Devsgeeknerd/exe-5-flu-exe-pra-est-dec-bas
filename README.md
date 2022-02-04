@@ -14,4 +14,4 @@
 &nbsp;
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/freelancer-zp-full-stack?style=social "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/?style=social "Licença do Repositório")
+![license](https://img.shields.io/github/license/Devsgeeknerd/freelancer-zp-full-stack?style=social "Licença do Repositório")
