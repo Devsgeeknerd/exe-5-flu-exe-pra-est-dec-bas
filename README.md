@@ -1,5 +1,7 @@
 # CURSO DE FREELANCER
 
+## INFORMAÇÕES
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Ffreelancer-zp-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%2342b883&style=plastic "Total de Visitas")
 &nbsp;
 ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
