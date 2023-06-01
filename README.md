@@ -1,65 +1,27 @@
-<!-- TITLE -->
+<!-- Título -->
+# Exercício 5 — Fluxograma
 
-# CURSO DE FREELANCER
+***Conteúdo do Exercício:***
 
-<!-- TABLE OF CONTENTS -->
+No Brasil pessoas entre 16 e 18 anos e acima de 60 anos não são obrigadas a votar.
 
-<!-- ## TABELA DE CONTEÚDO -->
+Crie um algoritmo que leia a `idade` de uma pessoa e informe se ela ainda `nao pode votar`,`o voto é opcional` ou `obrigatório`.
 
-<!-- OVERVIEW -->
+[Solução.](main.c)
 
-<!-- ## VISTA POR CIMA -->
+<!-- Informações -->
+## &#8505; Informações
 
-<!-- SCREENSHOT -->
-
-<!-- ### FOTO DA TELA -->
-
-<!-- LINKS -->
-
-<!-- ### LINKS -->
-
-<!-- MY PROCESS -->
-
-<!-- ## MEU PROCESSO -->
-
-<!-- BUILT WITH -->
-
-<!-- ### CONSTRUIDO COM -->
-
-<!-- WHAT I LEARNED -->
-
-<!-- ### O QUE APRENDI -->
-
-<!-- CONTINUED DEVELOPMENT -->
-
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
-
-<!-- USEFUL -->
-
-<!-- ### RECURSOS ÚTEIS -->
-
-<!-- AUTHOR -->
-
-<!-- ## AUTOR -->
-
-<!-- ACKNOWLEDGMENTS -->
-
-<!-- ## AGRADECIMENTOS -->
-
-<!-- INFORMATION -->
-
-## INFORMAÇÕES
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Ffreelancer-zp-full-stack&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-5-flu-exe-pra-est-dec-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/freelancer-zp-full-stack?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/freelancer-zp-full-stack?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/freelancer-zp-full-stack?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/freelancer-zp-full-stack?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/freelancer-zp-full-stack?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/exe-5-flu-exe-pra-est-dec-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
