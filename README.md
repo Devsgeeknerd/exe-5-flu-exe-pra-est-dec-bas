@@ -5,7 +5,7 @@
 
 No Brasil pessoas entre 16 e 18 anos e acima de 60 anos não são obrigadas a votar.
 
-Crie um algoritmo que leia a `idade` de uma pessoa e informe se ela ainda `nao pode votar`,`o voto é opcional` ou `obrigatório`.
+Crie um algoritmo que leia a `idade` de uma pessoa e informe se ela ainda `não pode votar`,`o voto é opcional` ou `obrigatório`.
 
 [Solução.](main.c)
 
